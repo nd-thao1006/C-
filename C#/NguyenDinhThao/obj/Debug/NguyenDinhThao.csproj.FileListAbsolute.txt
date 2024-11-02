@@ -1,0 +1,14 @@
+C:\wcf\NguyenDinhHung\NguyenDinhHung\bin\NguyenDinhHung.dll.config
+C:\wcf\NguyenDinhHung\NguyenDinhHung\bin\NguyenDinhHung.dll
+C:\wcf\NguyenDinhHung\NguyenDinhHung\bin\NguyenDinhHung.pdb
+C:\wcf\NguyenDinhHung\NguyenDinhHung\obj\Debug\NguyenDinhHung.csproj.AssemblyReference.cache
+C:\wcf\NguyenDinhHung\NguyenDinhHung\obj\Debug\NguyenDinhHung.csproj.CoreCompileInputs.cache
+C:\wcf\NguyenDinhHung\NguyenDinhHung\obj\Debug\NguyenDinhHung.dll
+C:\wcf\NguyenDinhHung\NguyenDinhHung\obj\Debug\NguyenDinhHung.pdb
+D:\NguyenDinhThao\NguyenDinhThao\bin\NguyenDinhThao.dll.config
+D:\NguyenDinhThao\NguyenDinhThao\bin\NguyenDinhThao.dll
+D:\NguyenDinhThao\NguyenDinhThao\bin\NguyenDinhThao.pdb
+D:\NguyenDinhThao\NguyenDinhThao\obj\Debug\NguyenDinhThao.csproj.AssemblyReference.cache
+D:\NguyenDinhThao\NguyenDinhThao\obj\Debug\NguyenDinhThao.csproj.CoreCompileInputs.cache
+D:\NguyenDinhThao\NguyenDinhThao\obj\Debug\NguyenDinhThao.dll
+D:\NguyenDinhThao\NguyenDinhThao\obj\Debug\NguyenDinhThao.pdb
